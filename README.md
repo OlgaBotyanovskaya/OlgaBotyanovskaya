@@ -2,7 +2,7 @@
 
 Desde temprana edad, Olga demostró una fascinación innata por el mundo de la creatividad y la tecnología.⚡ 
 
-https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/013_MitosCreatividad_02.jpg
+<img alt="013_MitosCreatividad_02.jpg" src="https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/013_MitosCreatividad_02.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 Su travesía comenzó en el prestigioso Colegio Estatal Radiotécnico Superior de Minsk, donde adquirió una sólida formación en informática a nivel de educación superior, destacando como una talentosa programadora Java.
 
