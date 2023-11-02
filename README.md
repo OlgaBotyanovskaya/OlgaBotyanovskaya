@@ -22,19 +22,19 @@ Lo más asombroso es la pasión ardiente de Olga por el arte y la creatividad. A
     <table>
         <tr>
             <td><img src="https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/olga-bots-1b-olgabotyanovskaya-missfortuna-02.jpg" alt="ZBrush"></td>
-            <td><img src="imagen2.jpg" alt="Imagen 2"></td>
+            <td><img src="https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/olga-bots-1b-olgabotyanovskaya-monstro-06-new.jpg" alt="ZBrush"></td>
         </tr>
         <tr>
-            <td><img src="imagen3.jpg" alt="Imagen 3"></td>
-            <td><img src="imagen4.jpg" alt="Imagen 4"></td>
+            <td><img src="https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/olga-bots-1b-olgabotyanovskaya-phonografo.jpg" alt="Maya"></td>
+            <td><img src="https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/olga-bots-1b-olgabotyanovskaya-render-13.jpg" alt="3Ds Max"></td>
         </tr>
         <tr>
-            <td><img src="imagen5.jpg" alt="Imagen 5"></td>
-            <td><img src="imagen6.jpg" alt="Imagen 6"></td>
+            <td><img src="https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/olga-bots-1bolgabotyanovskaya-nena-ref.jpg" alt="ZBrush"></td>
+            <td><img src="https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/olga-bots-blenderrender-06.jpg" alt="Blender"></td>
         </tr>
         <tr>
-            <td><img src="imagen7.jpg" alt="Imagen 7"></td>
-            <td><img src="imagen8.jpg" alt="Imagen 8"></td>
+            <td><img src="https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/olga-bots-1b-olgabotyanovskaya-pistola-front.jpg" alt="3Ds max"></td>
+            <td><img src="https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/olga-bots-1b-olgabotyanovskaya-render-21.jpg" alt="3Ds max"></td>
         </tr>
     </table>
 
