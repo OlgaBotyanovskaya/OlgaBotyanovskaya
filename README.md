@@ -1,6 +1,10 @@
 🌟 La Trayectoria Mágica de Olga 🌟
 
-Desde temprana edad, Olga demostró una fascinación innata por el mundo de la creatividad y la tecnología.⚡ Su travesía comenzó en el prestigioso Colegio Estatal Radiotécnico Superior de Minsk, donde adquirió una sólida formación en informática a nivel de educación superior, destacando como una talentosa programadora Java.
+Desde temprana edad, Olga demostró una fascinación innata por el mundo de la creatividad y la tecnología.⚡ 
+
+https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/013_MitosCreatividad_02.jpg
+
+Su travesía comenzó en el prestigioso Colegio Estatal Radiotécnico Superior de Minsk, donde adquirió una sólida formación en informática a nivel de educación superior, destacando como una talentosa programadora Java.
 
 Sin embargo, su corazón siempre latía al ritmo de la imaginación y el arte. Este amor incondicional la llevó a embarcarse en una emocionante aventura en CEV.👯 Escuela Superior de Comunicación, Imagen y Sonido, donde perfeccionó sus habilidades en modelado 3D, animación y concept art. Aquí, Olga se convirtió en una verdadera maestra en dar vida a sus creativas ideas.
 
