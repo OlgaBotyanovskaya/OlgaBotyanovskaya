@@ -6,7 +6,11 @@ Desde temprana edad, Olga demostró una fascinación innata por el mundo de la c
 
 Su travesía comenzó en el prestigioso Colegio Estatal Radiotécnico Superior de Minsk, donde adquirió una sólida formación en informática a nivel de educación superior, destacando como una talentosa programadora Java.
 
+<img alt="5462934_99a4.jpg" src="https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/5462934_99a4.jpg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+
 Sin embargo, su corazón siempre latía al ritmo de la imaginación y el arte. Este amor incondicional la llevó a embarcarse en una emocionante aventura en CEV.👯 Escuela Superior de Comunicación, Imagen y Sonido, donde perfeccionó sus habilidades en modelado 3D, animación y concept art. Aquí, Olga se convirtió en una verdadera maestra en dar vida a sus creativas ideas.
+
+<img alt="logo-h80.png" src="https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/logo-h80.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 El universo de los videojuegos no tardó en atraer a Olga como un imán. Tras obtener un Máster en Creación de Videojuegos, se especializó en modelado 3D, animación y concept art. Como artista 3D, se convirtió en una arquitecta de mundos virtuales, creando experiencias visuales y narrativas extraordinarias que cautivaron a audiencias de todo el mundo.
 
