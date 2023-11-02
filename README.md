@@ -38,10 +38,14 @@ Lo más asombroso es la pasión ardiente de Olga por el arte y la creatividad. A
         </tr>
     </table>
 
+
+
 Hoy en día, Olga sigue inspirando y asombrando al mundo con su arte, convirtiendo conceptos en realidades digitales y dejando una marca indeleble en la industria de los videojuegos. Su creatividad es una fuerza de la naturaleza que continúa iluminando el camino para futuros artistas y desarrolladores.
 
 ¡Olga es la prueba viviente de que cuando se sigue el corazón y se persigue la pasión, los sueños se vuelven realidad y los mundos imaginarios cobran vida! 🚀🎨🖥️
 
+
+<div class="site-title title-font"><a href="https://olgabots.artstation.com/">Olga Bots Portfolio</a><div class="site-subtitle visible-desktop">Student in CEV - 3D artist</div></div>
 
 <!--
 **OlgaBotyanovskaya/OlgaBotyanovskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
