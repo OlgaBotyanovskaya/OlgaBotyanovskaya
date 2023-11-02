@@ -18,6 +18,26 @@ Lo más asombroso es la pasión ardiente de Olga por el arte y la creatividad. A
 
 😄Con habilidades magistrales en herramientas como ZBrush, Photoshop, 3Ds Max y Maya, Olga es una virtuosa del diseño y la creación visual.😄 Sus creaciones son como ventanas a mundos alternativos llenos de magia y maravilla.
 
+<h1>Trabajos</h1>
+    <table>
+        <tr>
+            <td><img src="https://github.com/OlgaBotyanovskaya/OlgaBotyanovskaya/blob/main/olga-bots-1b-olgabotyanovskaya-missfortuna-02.jpg" alt="ZBrush"></td>
+            <td><img src="imagen2.jpg" alt="Imagen 2"></td>
+        </tr>
+        <tr>
+            <td><img src="imagen3.jpg" alt="Imagen 3"></td>
+            <td><img src="imagen4.jpg" alt="Imagen 4"></td>
+        </tr>
+        <tr>
+            <td><img src="imagen5.jpg" alt="Imagen 5"></td>
+            <td><img src="imagen6.jpg" alt="Imagen 6"></td>
+        </tr>
+        <tr>
+            <td><img src="imagen7.jpg" alt="Imagen 7"></td>
+            <td><img src="imagen8.jpg" alt="Imagen 8"></td>
+        </tr>
+    </table>
+
 Hoy en día, Olga sigue inspirando y asombrando al mundo con su arte, convirtiendo conceptos en realidades digitales y dejando una marca indeleble en la industria de los videojuegos. Su creatividad es una fuerza de la naturaleza que continúa iluminando el camino para futuros artistas y desarrolladores.
 
 ¡Olga es la prueba viviente de que cuando se sigue el corazón y se persigue la pasión, los sueños se vuelven realidad y los mundos imaginarios cobran vida! 🚀🎨🖥️
